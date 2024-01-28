@@ -20,6 +20,6 @@ The purpose of "I AM RICH" is to serve as a learning exercise for beginners in F
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/i-am-rich.git`
+1. Clone this repository to your local machine using `git clone https://github.com/Daniel-techgit/i-am-rich.git`
 2. Open the project in your preferred Flutter development environment.
 3. Run the application on an emulator or physical device.
